@@ -31,12 +31,10 @@ This project is licensed under the MIT license.
 
 ## Demo
 
-Here’s a demo of the README generator in action:
-
 [Watch the demo video](assets/videos/DEMO-09-UTA-VIRT-FSF-FT-06-2024-U-LOLC.webm)
 
 ## Questions
 If you have any questions, please feel free to contact me via:
 
-- GitHub: [conorlee](https://github.com/conorlee)
-- Email: conorlee@example.com
+- GitHub: [conorlee](https://github.com/conorlee8)
+- Email: conorlee@gmail.com
