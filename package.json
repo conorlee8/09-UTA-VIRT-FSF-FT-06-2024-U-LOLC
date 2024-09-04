@@ -1,15 +1,14 @@
 {
-  "name": "09-uta-virt-fsf-ft-06-2024-u-lolc",
+  "name": "09-readme-generator",
   "version": "1.0.0",
-  "description": "This is a repository for the 09-UTA-VIRT-FSF-FT-06-2024-U-LOLC challenge.",
+  "description": "A command-line tool to generate professional README.md files.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+    "inquirer": "^8.2.0"
+  },
+  "author": "Conor Lee",
+  "license": "MIT"
 }
