@@ -1,9 +1,4 @@
 
-# Eve
-
-## Description
-She is great!
-
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
